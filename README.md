@@ -39,7 +39,7 @@ CSS          30 mins          ░░░░░░░░░░░░░░░░�
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🌸  Completed 0 tasks today           
-✅  Completed 229 tasks so far           
+✅  Completed 179 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
