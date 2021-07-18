@@ -30,9 +30,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ```text
 JavaScript   23 hrs 39 mins   ██████████████▓░░░░░░░░░░   59.15 % 
 JSX          13 hrs 59 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 % 
-MDX          1 hr 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+MDX          2 hr             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Other        59 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+CSS          30 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 <!--END_SECTION:waka-->
 
