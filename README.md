@@ -44,10 +44,5 @@ CSS          30 mins          ░░░░░░░░░░░░░░░░�
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=coollerwind&show_icons=true&theme=gotham" alt="coollerwind" />
-
-
 
 
