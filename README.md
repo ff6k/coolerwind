@@ -36,7 +36,7 @@ CSS          30 mins          ░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-🚧 **my todoist stats:**
+🚧 **my todolist stats:**
 <!-- TODO-IST:START -->
 🌸  Completed 0 tasks today           
 ✅  Completed 179 tasks so far           
