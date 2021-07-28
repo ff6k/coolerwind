@@ -1,5 +1,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=coollerwind.coollerwind)
+<br />
+<br />
 [![typescript](https://img.shields.io/badge/React-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/coollerwind)
 [![typescript](https://img.shields.io/badge/React_Native-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/coollerwind)
 [![typescript](https://img.shields.io/badge/Node-Expert-0063b0.svg?logo=node.js&logoWidth=20)](https://github.com/coollerwind)&nbsp;
