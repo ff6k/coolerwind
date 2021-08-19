@@ -33,24 +33,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   23 hrs 39 mins   ██████████████▓░░░░░░░░░░   59.15 % 
-JSX          13 hrs 59 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 % 
-MDX          2 hr             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Other        59 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-CSS          30 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-```
-<!--END_SECTION:waka-->
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🌸  Completed 0 tasks today           
-✅  Completed 179 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 
 
 
