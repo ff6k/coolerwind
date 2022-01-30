@@ -1,35 +1,35 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=coollerwind.coollerwind)
-[![typescript](https://img.shields.io/badge/Blockchain-Expert-0063b0.svg?logo=blockchain&logoWidth=20)](https://github.com/coollerwind)
-[![typescript](https://img.shields.io/badge/Solidity-Expert-0063b0.svg?logo=solidity&logoWidth=20)](https://github.com/coollerwind)
-[![typescript](https://img.shields.io/badge/React-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/coollerwind)
-[![typescript](https://img.shields.io/badge/React_Native-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/coollerwind)
-[![typescript](https://img.shields.io/badge/Node-Expert-0063b0.svg?logo=node.js&logoWidth=20)](https://github.com/coollerwind)&nbsp;
-[![typescript](https://img.shields.io/badge/Firebase-Expert-0063b0.svg?logo=firebase&logoWidth=20)](https://github.com/coollerwind)&nbsp;
-[![typescript](https://img.shields.io/badge/Laravel-Expert-e64a32.svg?logo=laravel&logoWidth=20)](https://github.com/coollerwind)&nbsp;
-[![typescript](https://img.shields.io/badge/Spring-Expert-26b547.svg?logo=spring&logoWidth=20)](https://github.com/coollerwind)&nbsp;
+<h2>Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
+### 👨🏻‍💻 &nbsp;About Me
+
+Software engineer, decentralized application architect, certified Blockchain developer with expertise in smart contracts and decentralized applications development, also web development as well. Having strong knowledge of Solidity, JavaScript, TypeScript programming languages in particular. Has worked on blockchain projects as a developer, lead and consultant across numerous companies.
+Smart Contract / Ethereum / Solidity / C++ / Rust / React.js / Node.js / EVM Integration / Decentralized Application Development.
+
+### 🛠 &nbsp;Tech Stack
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
+![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 
-hi, i'm a professional [Blockchain & Full stack] developer, a passionate self-taught full stack web developer and a freelance software engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+### ⚙️ &nbsp;GitHub Analytics
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-  
-- 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-
-
+<p align="center">
+<a href="https://github.com/coolerwind">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coolerwind&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coolerwind&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
