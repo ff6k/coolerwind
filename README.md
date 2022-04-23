@@ -24,12 +24,3 @@ Smart Contract / Ethereum / Solidity / C++ / Rust / React.js / Node.js / EVM Int
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/coolerwind">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coolerwind&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coolerwind&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
